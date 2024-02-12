@@ -1,0 +1,33 @@
+Institute,Branch Name,Quota,Category,Seat Pool,Rank,Percentile,Round No,University
+COEP,CS,HU,OPEN,Gender-Neutral,151,99.9174143,1,SPPU
+COEP,CS,HU,OBC,Gender-Neutral,271,99.8645445,1,SPPU
+COEP,CS,HU,SC,Gender-Neutral,1933,99.2116821,1,SPPU
+COEP,CS,HU,ST,Gender-Neutral,9118,96.4755805,1,SPPU
+COEP,CS,HU,NT1,Gender-Neutral,329,99.8393784,1,SPPU
+COEP,CS,HU,NT2,Gender-Neutral,357,99.8281723,1,SPPU
+COEP,CS,HU,NT3,Gender-Neutral,221,99.8879384,1,SPPU
+COEP,CS,HU,VJ,Gender-Neutral,995,99.5677969,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,OPEN,Gender-Neutral,797,99.6445941,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,OBC,Gender-Neutral,1155,99.5078483,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,SC,Gender-Neutral,7027,97.2746725,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,ST,Gender-Neutral,21920,91.1342735,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT1,Gender-Neutral,3921,98.4828202,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT2,Gender-Neutral,1687,99.3092834,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,NT3,Gender-Neutral,2264,99.1007562,1,SPPU
+COEP,Robotics and Artificial Intelligence,HU,VJ,Gender-Neutral,1610,99.3326125,1,SPPU
+COEP,ENTC,HU,OPEN,Gender-Neutral,346,99.8312078,1,SPPU
+COEP,ENTC,HU,OBC,Gender-Neutral,583,99.7310523,1,SPPU
+COEP,ENTC,HU,SC,Gender-Neutral,3802,98.5069349,1,SPPU
+COEP,ENTC,HU,ST,Gender-Neutral,11746,95.3905345,1,SPPU
+COEP,ENTC,HU,NT1,Gender-Neutral,1135,99.5127893,1,SPPU
+COEP,ENTC,HU,NT2,Gender-Neutral,643,99.7054547,1,SPPU
+COEP,ENTC,HU,NT3,Gender-Neutral,983,99.5723931,1,SPPU
+COEP,ENTC,HU,VJ,Gender-Neutral,12054,95.2749719,1,SPPU
+PICT,CS,HU,OPEN,Gender-Neutral,706,99.6779262,1,SPPU
+PICT,CS,HU,OBC,Gender-Neutral,1029,99.5532865,1,SPPU
+PICT,CS,HU,SC,Gender-Neutral,5837,97.7553311,1,SPPU
+PICT,CS,HU,ST,Gender-Neutral,18009,92.7710843,1,SPPU
+PICT,CS,HU,NT1,Gender-Neutral,2502,99.0182954,1,SPPU
+PICT,CS,HU,NT2,Gender-Neutral,1312,99.4522788,1,SPPU
+PICT,CS,HU,NT3,Gender-Neutral,981,99.5723931,1,SPPU
+PICT,CS,HU,VJ,Gender-Neutral,5596,97.8417807,1,SPPU

@@ -1,0 +1,45 @@
+{% extends "public/templates/public_template.html" %}
+
+{% block scripts_css %}
+<link rel="stylesheet" href={{ url_for('static', filename='css/rstyle.css') }}>
+{% endblock scripts_css %}
+
+
+{% block title %}Admission Sarthi{% endblock %}
+
+{% block main %}
+
+<div class='signup-container'>
+
+  <div class='right-container'>
+    {% block headerTitle %}
+    <h1>Congratulations ! <br>
+      <div class="lines">Your expected {{category}} rank: <br>
+        <bold>{{ranks}}</bold>
+      </div>
+    </h1>
+    {% endblock headerTitle %}
+
+    <div class='state clg_list'>
+      <p class="heading">You may get below colleges</p>
+    </div>
+
+    <table class="res">
+      {% for table in tables %}
+      {{titles[loop.index]}}
+      {{ table|safe }}
+      {% endfor %}
+    </table>
+    <footer>
+      <div class='set'>
+        <button id='next' onclick="window.location.href='/'">Back</button>
+      </div>
+    </footer>
+
+  </div>
+</div>
+
+{% endblock main %}
+
+{% block scripts_js %}
+{% endblock scripts_js %}
